@@ -32,3 +32,8 @@ class Cart:
             return
         for dvd in self.items:
             print(dvd)
+
+    def apply_discount(self, percent):
+        if not 0 <= percent <= 100:
+            raise ValueError("percent must be between 0 and 100")
+        return self.total_cost() * (100 - percent) / 100
