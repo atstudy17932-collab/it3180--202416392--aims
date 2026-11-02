@@ -1,6 +1,8 @@
 # Changelog
 
 ## [Unreleased]
+### Added
+- Cart.sort_by_title(), Cart.sort_by_cost()
 
 ## [1.0.0] - 2026-11-05
 ### Added
