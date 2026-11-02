@@ -1,0 +1,66 @@
+[33m8d09399[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mtopic/undo-practice[m[33m)[m HEAD@{0}: reset: moving to HEAD~1
+[33m88a445c[m HEAD@{1}: commit: draft 3 again
+[33m8d09399[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mtopic/undo-practice[m[33m)[m HEAD@{2}: reset: moving to HEAD~1
+[33mfb20857[m HEAD@{3}: commit: draft 3 again
+[33m8d09399[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mtopic/undo-practice[m[33m)[m HEAD@{4}: reset: moving to HEAD~1
+[33m25be819[m HEAD@{5}: commit: draft 3
+[33m8d09399[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mtopic/undo-practice[m[33m)[m HEAD@{6}: commit: draft 2
+[33m480df1b[m HEAD@{7}: commit: draft 1
+[33m5695860[m[33m ([m[1;31morigin/master[m[33m, [m[1;31morigin/HEAD[m[33m, [m[1;32mmaster[m[33m)[m HEAD@{8}: checkout: moving from master to topic/undo-practice
+[33m5695860[m[33m ([m[1;31morigin/master[m[33m, [m[1;31morigin/HEAD[m[33m, [m[1;32mmaster[m[33m)[m HEAD@{9}: pull: Fast-forward
+[33m18490bd[m HEAD@{10}: checkout: moving from feature/vietnamese-messages to master
+[33m9363f12[m[33m ([m[1;32mfeature/vietnamese-messages[m[33m)[m HEAD@{11}: commit: feat: vietnamese add message
+[33m18490bd[m HEAD@{12}: checkout: moving from master to feature/vietnamese-messages
+[33m18490bd[m HEAD@{13}: checkout: moving from master to master
+[33m18490bd[m HEAD@{14}: checkout: moving from master to master
+[33m18490bd[m HEAD@{15}: pull: Fast-forward
+[33m41e652b[m HEAD@{16}: checkout: moving from feature/discount to master
+[33mf60b51a[m HEAD@{17}: commit: feat: add apply_discount
+[33m41e652b[m HEAD@{18}: checkout: moving from master to feature/discount
+[33m41e652b[m HEAD@{19}: pull: Fast-forward
+[33md68b753[m[33m ([m[1;31morigin/release/lab02[m[33m)[m HEAD@{20}: checkout: moving from bugfix/cart-limit-off-by-one to master
+[33m4153542[m HEAD@{21}: commit: fix: reject DVDs beyond MAX_NUMBERS_ORDERED
+[33m5188059[m HEAD@{22}: commit: test: reproduce cart limit bug (#7)
+[33md68b753[m[33m ([m[1;31morigin/release/lab02[m[33m)[m HEAD@{23}: checkout: moving from master to bugfix/cart-limit-off-by-one
+[33md68b753[m[33m ([m[1;31morigin/release/lab02[m[33m)[m HEAD@{24}: checkout: moving from master to master
+[33md68b753[m[33m ([m[1;31morigin/release/lab02[m[33m)[m HEAD@{25}: pull: Fast-forward
+[33m9d06224[m HEAD@{26}: checkout: moving from master to master
+[33m9d06224[m HEAD@{27}: pull: Fast-forward
+[33me5365c4[m HEAD@{28}: checkout: moving from feature/cart-print to master
+[33m7d5255d[m HEAD@{29}: commit: feat: handle empty cart in print_cart
+[33m4206886[m HEAD@{30}: commit: feat: use print_cart in main
+[33m43ca078[m HEAD@{31}: commit: feat: add Cart.print_cart
+[33me5365c4[m HEAD@{32}: checkout: moving from master to feature/cart-print
+[33me5365c4[m HEAD@{33}: pull: Fast-forward
+[33m9f61ddc[m HEAD@{34}: checkout: moving from master to master
+[33m9f61ddc[m HEAD@{35}: reset: moving to origin/master
+[33m952cdbf[m HEAD@{36}: checkout: moving from topic/pr-template to master
+[33md0232c1[m[33m ([m[1;32mtopic/pr-template[m[33m)[m HEAD@{37}: rebase (finish): returning to refs/heads/topic/pr-template
+[33md0232c1[m[33m ([m[1;32mtopic/pr-template[m[33m)[m HEAD@{38}: rebase (pick): docs: add pull request template
+[33m9f61ddc[m HEAD@{39}: rebase (start): checkout origin/master
+[33mae6742b[m HEAD@{40}: checkout: moving from master to topic/pr-template
+[33m952cdbf[m HEAD@{41}: checkout: moving from topic/pr-template to master
+[33mae6742b[m HEAD@{42}: commit: docs: add pull request template
+[33m952cdbf[m HEAD@{43}: checkout: moving from master to topic/pr-template
+[33m952cdbf[m HEAD@{44}: commit: test branch protection
+[33m9f61ddc[m HEAD@{45}: pull: Fast-forward
+[33m669e953[m[33m ([m[1;31morigin/release/lab01[m[33m, [m[1;32mrelease/lab01[m[33m)[m HEAD@{46}: checkout: moving from docs/answers-lab01 to master
+[33m1fce77f[m HEAD@{47}: commit: docs: add Lab 01 discussion answers
+[33m669e953[m[33m ([m[1;31morigin/release/lab01[m[33m, [m[1;32mrelease/lab01[m[33m)[m HEAD@{48}: checkout: moving from master to docs/answers-lab01
+[33m669e953[m[33m ([m[1;31morigin/release/lab01[m[33m, [m[1;32mrelease/lab01[m[33m)[m HEAD@{49}: checkout: moving from master to master
+[33m669e953[m[33m ([m[1;31morigin/release/lab01[m[33m, [m[1;32mrelease/lab01[m[33m)[m HEAD@{50}: checkout: moving from release/lab01 to master
+[33m669e953[m[33m ([m[1;31morigin/release/lab01[m[33m, [m[1;32mrelease/lab01[m[33m)[m HEAD@{51}: checkout: moving from master to release/lab01
+[33m669e953[m[33m ([m[1;31morigin/release/lab01[m[33m, [m[1;32mrelease/lab01[m[33m)[m HEAD@{52}: pull: Fast-forward
+[33m02154f4[m HEAD@{53}: checkout: moving from refactor/apply-release-flow to master
+[33mf288886[m HEAD@{54}: commit: refactor: update imports in main.py
+[33m354eb7c[m HEAD@{55}: commit: refactor: move sources into aims package
+[33m02154f4[m HEAD@{56}: checkout: moving from master to refactor/apply-release-flow
+[33m02154f4[m HEAD@{57}: commit (amend): docs: add Python requirement to README
+[33mb2d49d7[m HEAD@{58}: commit: docs: add requirment
+[33m7afe0ae[m HEAD@{59}: reset: moving to origin/master
+[33m7afe0ae[m HEAD@{60}: commit (amend): feat: add initial DVD, Cart and demo program
+[33m8a4bedc[m HEAD@{61}: reset: moving to HEAD
+[33m8a4bedc[m HEAD@{62}: reset: moving to HEAD
+[33m8a4bedc[m HEAD@{63}: commit (amend): docs: add Python requirement to README
+[33mf8121ee[m HEAD@{64}: commit: feat: add initial DVD, Cart and demo program
+[33mee04ae2[m HEAD@{65}: commit (initial): chore: initial commit
