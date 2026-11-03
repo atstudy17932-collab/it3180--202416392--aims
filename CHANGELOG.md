@@ -7,6 +7,10 @@
 - Cart.sort_by_title(), Cart.sort_by_cost()
 - search_by_category()
 
+## [1.0.1] - 2026-11-03
+### Fixed
+- search_by_title bỏ qua khoảng trắng thừa quanh từ khóa (#22)
+
 ## [1.0.0] - 2026-11-05
 ### Added
 - Cart.print_cart() và xử lý giỏ hàng trống
